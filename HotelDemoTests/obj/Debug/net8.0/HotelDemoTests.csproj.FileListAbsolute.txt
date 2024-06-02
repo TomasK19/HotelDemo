@@ -1,0 +1,505 @@
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\.msCoverageSourceRootsMapping_HotelDemoTests
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\CoverletSourceRootsMapping_HotelDemoTests
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\testhost.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\HotelDemo.deps.json
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\HotelDemo.runtimeconfig.json
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\appsettings.Development.json
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\appsettings.json
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\33 Seaport Hotel New York_New York_4\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\33 Seaport Hotel New York_New York_4\Rooms\Deluxe_2\Deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\33 Seaport Hotel New York_New York_4\Rooms\Standard_2\standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\33 Seaport Hotel New York_New York_4\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\33 Seaport Hotel New York_New York_4\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\33 Seaport Hotel New York_New York_4\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Campanile Varsovie_Warsaw_4\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Campanile Varsovie_Warsaw_4\Rooms\Deluxe_2\deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Campanile Varsovie_Warsaw_4\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Campanile Varsovie_Warsaw_4\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Campanile Varsovie_Warsaw_4\Rooms\Standard_2\Standard.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Campanile Varsovie_Warsaw_4\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Campanile Varsovie_Warsaw_4\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Casa Elliot by Bondia Hotel Group_Barcelona_5\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Casa Elliot by Bondia Hotel Group_Barcelona_5\Rooms\Deluxe_2\deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Casa Elliot by Bondia Hotel Group_Barcelona_5\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Casa Elliot by Bondia Hotel Group_Barcelona_5\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Casa Elliot by Bondia Hotel Group_Barcelona_5\Rooms\Standard_2\Standard.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Casa Elliot by Bondia Hotel Group_Barcelona_5\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Casa Elliot by Bondia Hotel Group_Barcelona_5\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Chicago Getaway Hostel_Chicago_4\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Chicago Getaway Hostel_Chicago_4\Rooms\Deluxe_2\Deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Chicago Getaway Hostel_Chicago_4\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Chicago Getaway Hostel_Chicago_4\Rooms\Standard_2\Standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Chicago Getaway Hostel_Chicago_4\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Chicago Getaway Hostel_Chicago_4\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Chicago Getaway Hostel_Chicago_4\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Chicago Getaway Hostel_Chicago_4\Rooms\Suite_2\Suite 3.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\HighPark Berlin am Potsdamer Platz_Berlin_4\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\HighPark Berlin am Potsdamer Platz_Berlin_4\Rooms\Deluxe_2\Deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\HighPark Berlin am Potsdamer Platz_Berlin_4\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\HighPark Berlin am Potsdamer Platz_Berlin_4\Rooms\Standard_2\Standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\HighPark Berlin am Potsdamer Platz_Berlin_4\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\HighPark Berlin am Potsdamer Platz_Berlin_4\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\HighPark Berlin am Potsdamer Platz_Berlin_4\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\HighPark Berlin am Potsdamer Platz_Berlin_4\Rooms\Suite_2\Suite 3.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Babilonas_Kaunas_3\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Babilonas_Kaunas_3\Rooms\Deluxe_2\Deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Babilonas_Kaunas_3\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Babilonas_Kaunas_3\Rooms\Standard_2\Standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Babilonas_Kaunas_3\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Babilonas_Kaunas_3\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Babilonas_Kaunas_3\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Babilonas_Kaunas_3\Rooms\Suite_2\Suite 3.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Beacon_New York_5\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Beacon_New York_5\Rooms\Deluxe_2\deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Beacon_New York_5\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Beacon_New York_5\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Beacon_New York_5\Rooms\Standard_2\Standard.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Beacon_New York_5\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Beacon_New York_5\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Berlin Mitte by Campanile_Berlin_4\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Berlin Mitte by Campanile_Berlin_4\Rooms\Deluxe_2\deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Berlin Mitte by Campanile_Berlin_4\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Berlin Mitte by Campanile_Berlin_4\Rooms\Standard_2\standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Berlin Mitte by Campanile_Berlin_4\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Berlin Mitte by Campanile_Berlin_4\Rooms\Standard_2\Standard.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Berlin Mitte by Campanile_Berlin_4\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Berlin Mitte by Campanile_Berlin_4\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Boulevard_Dubai_4\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Boulevard_Dubai_4\Rooms\Deluxe_2\deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Boulevard_Dubai_4\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Boulevard_Dubai_4\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Boulevard_Dubai_4\Rooms\Standard_2\Standard.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Boulevard_Dubai_4\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Boulevard_Dubai_4\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Raddison_Kaunas_4\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Raddison_Kaunas_4\Rooms\Deluxe_2\Deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Raddison_Kaunas_4\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Raddison_Kaunas_4\Rooms\Standard_2\Standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Raddison_Kaunas_4\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Raddison_Kaunas_4\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Raddison_Kaunas_4\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Raddison_Kaunas_4\Rooms\Suite_2\Suite 3.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas City_Kaunas_3\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas City_Kaunas_3\Rooms\Deluxe_2\Deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas City_Kaunas_3\Rooms\Standard_2\standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas City_Kaunas_3\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas City_Kaunas_3\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas City_Kaunas_3\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\ME Barcelona_Barcelona_5\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\ME Barcelona_Barcelona_5\Rooms\Deluxe_2\Deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\ME Barcelona_Barcelona_5\Rooms\Standard_2\standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\ME Barcelona_Barcelona_5\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\ME Barcelona_Barcelona_5\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\ME Barcelona_Barcelona_5\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Pendry Chicago_Chicago_4\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Pendry Chicago_Chicago_4\Rooms\Deluxe_2\Deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Pendry Chicago_Chicago_4\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Pendry Chicago_Chicago_4\Rooms\Standard_2\Standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Pendry Chicago_Chicago_4\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Pendry Chicago_Chicago_4\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Pendry Chicago_Chicago_4\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Pendry Chicago_Chicago_4\Rooms\Suite_2\Suite 3.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Renaissance Warsaw Airport Hotel_Warsaw_4\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Renaissance Warsaw Airport Hotel_Warsaw_4\Rooms\Deluxe_2\Deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Renaissance Warsaw Airport Hotel_Warsaw_4\Rooms\Standard_2\standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Renaissance Warsaw Airport Hotel_Warsaw_4\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Renaissance Warsaw Airport Hotel_Warsaw_4\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Renaissance Warsaw Airport Hotel_Warsaw_4\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\HotelDemo.staticwebassets.runtime.json
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\HotelDemo.exe
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\testhost.exe
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests.deps.json
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests.runtimeconfig.json
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests.pdb
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\AutoFixture.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\AutoFixture.AutoMoq.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\AutoFixture.Xunit2.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\AutoMapper.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Castle.Core.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Fare.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\FluentAssertions.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\MailKit.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\MimeKit.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Moq.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\xunit.abstractions.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\xunit.assert.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\xunit.core.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\HotelDemo.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\HotelDemo.pdb
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\obj\Debug\net8.0\HotelDemoTests.csproj.AssemblyReference.cache
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\obj\Debug\net8.0\HotelDemoTests.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\obj\Debug\net8.0\HotelDemoTests.AssemblyInfoInputs.cache
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\obj\Debug\net8.0\HotelDemoTests.AssemblyInfo.cs
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\obj\Debug\net8.0\HotelDemoTests.csproj.CoreCompileInputs.cache
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\obj\Debug\net8.0\HotelDem.01F48FC2.Up2Date
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\obj\Debug\net8.0\HotelDemoTests.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\obj\Debug\net8.0\refint\HotelDemoTests.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\obj\Debug\net8.0\HotelDemoTests.pdb
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\obj\Debug\net8.0\HotelDemoTests.genruntimeconfig.cache
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\obj\Debug\net8.0\ref\HotelDemoTests.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas_Kaunas_4\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas_Kaunas_4\Rooms\Deluxe_2\Deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas_Kaunas_4\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas_Kaunas_4\Rooms\Standard_2\Standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas_Kaunas_4\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas_Kaunas_4\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas_Kaunas_4\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas_Kaunas_4\Rooms\Suite_2\Suite 3.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\.msCoverageSourceRootsMapping_HotelDemoTests
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\CoverletSourceRootsMapping_HotelDemoTests
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\testhost.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemo.deps.json
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemo.runtimeconfig.json
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\appsettings.Development.json
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\appsettings.json
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\obj\HotelDemoTests.csproj.nuget.dgspec.json
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\obj\project.assets.json
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\obj\project.packagespec.json
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\33 Seaport Hotel New York_New York_4\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\33 Seaport Hotel New York_New York_4\Rooms\Deluxe_2\Deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\33 Seaport Hotel New York_New York_4\Rooms\Standard_2\standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\33 Seaport Hotel New York_New York_4\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\33 Seaport Hotel New York_New York_4\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\33 Seaport Hotel New York_New York_4\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Campanile Varsovie_Warsaw_4\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Campanile Varsovie_Warsaw_4\Rooms\Deluxe_2\deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Campanile Varsovie_Warsaw_4\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Campanile Varsovie_Warsaw_4\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Campanile Varsovie_Warsaw_4\Rooms\Standard_2\Standard.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Campanile Varsovie_Warsaw_4\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Campanile Varsovie_Warsaw_4\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Casa Elliot by Bondia Hotel Group_Barcelona_5\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Casa Elliot by Bondia Hotel Group_Barcelona_5\Rooms\Deluxe_2\deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Casa Elliot by Bondia Hotel Group_Barcelona_5\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Casa Elliot by Bondia Hotel Group_Barcelona_5\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Casa Elliot by Bondia Hotel Group_Barcelona_5\Rooms\Standard_2\Standard.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Casa Elliot by Bondia Hotel Group_Barcelona_5\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Casa Elliot by Bondia Hotel Group_Barcelona_5\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Chicago Getaway Hostel_Chicago_4\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Chicago Getaway Hostel_Chicago_4\Rooms\Deluxe_2\Deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Chicago Getaway Hostel_Chicago_4\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Chicago Getaway Hostel_Chicago_4\Rooms\Standard_2\Standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Chicago Getaway Hostel_Chicago_4\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Chicago Getaway Hostel_Chicago_4\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Chicago Getaway Hostel_Chicago_4\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Chicago Getaway Hostel_Chicago_4\Rooms\Suite_2\Suite 3.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\HighPark Berlin am Potsdamer Platz_Berlin_4\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\HighPark Berlin am Potsdamer Platz_Berlin_4\Rooms\Deluxe_2\Deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\HighPark Berlin am Potsdamer Platz_Berlin_4\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\HighPark Berlin am Potsdamer Platz_Berlin_4\Rooms\Standard_2\Standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\HighPark Berlin am Potsdamer Platz_Berlin_4\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\HighPark Berlin am Potsdamer Platz_Berlin_4\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\HighPark Berlin am Potsdamer Platz_Berlin_4\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\HighPark Berlin am Potsdamer Platz_Berlin_4\Rooms\Suite_2\Suite 3.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Babilonas_Kaunas_3\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Babilonas_Kaunas_3\Rooms\Deluxe_2\Deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Babilonas_Kaunas_3\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Babilonas_Kaunas_3\Rooms\Standard_2\Standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Babilonas_Kaunas_3\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Babilonas_Kaunas_3\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Babilonas_Kaunas_3\Rooms\Suite_2\Suite 3.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Beacon_New York_5\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Beacon_New York_5\Rooms\Deluxe_2\deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Beacon_New York_5\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Beacon_New York_5\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Beacon_New York_5\Rooms\Standard_2\Standard.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Beacon_New York_5\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Beacon_New York_5\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Berlin Mitte by Campanile_Berlin_4\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Berlin Mitte by Campanile_Berlin_4\Rooms\Deluxe_2\deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Berlin Mitte by Campanile_Berlin_4\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Berlin Mitte by Campanile_Berlin_4\Rooms\Standard_2\standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Berlin Mitte by Campanile_Berlin_4\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Berlin Mitte by Campanile_Berlin_4\Rooms\Standard_2\Standard.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Berlin Mitte by Campanile_Berlin_4\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Berlin Mitte by Campanile_Berlin_4\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Boulevard_Dubai_4\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Boulevard_Dubai_4\Rooms\Deluxe_2\deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Boulevard_Dubai_4\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Boulevard_Dubai_4\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Boulevard_Dubai_4\Rooms\Standard_2\Standard.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Boulevard_Dubai_4\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Boulevard_Dubai_4\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Raddison_Kaunas_4\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Raddison_Kaunas_4\Rooms\Deluxe_2\Deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Raddison_Kaunas_4\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Raddison_Kaunas_4\Rooms\Standard_2\Standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Raddison_Kaunas_4\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Raddison_Kaunas_4\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Raddison_Kaunas_4\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Hotel Raddison_Kaunas_4\Rooms\Suite_2\Suite 3.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas City_Kaunas_3\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas City_Kaunas_3\Rooms\Deluxe_2\Deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas City_Kaunas_3\Rooms\Standard_2\standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas City_Kaunas_3\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas City_Kaunas_3\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas City_Kaunas_3\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas_Kaunas_4\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas_Kaunas_4\Rooms\Deluxe_2\Deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas_Kaunas_4\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas_Kaunas_4\Rooms\Standard_2\Standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas_Kaunas_4\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas_Kaunas_4\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas_Kaunas_4\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Kaunas_Kaunas_4\Rooms\Suite_2\Suite 3.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\ME Barcelona_Barcelona_5\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\ME Barcelona_Barcelona_5\Rooms\Deluxe_2\Deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\ME Barcelona_Barcelona_5\Rooms\Standard_2\standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\ME Barcelona_Barcelona_5\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\ME Barcelona_Barcelona_5\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\ME Barcelona_Barcelona_5\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Pendry Chicago_Chicago_4\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Pendry Chicago_Chicago_4\Rooms\Deluxe_2\Deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Pendry Chicago_Chicago_4\Rooms\Deluxe_2\Deluxe 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Pendry Chicago_Chicago_4\Rooms\Standard_2\Standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Pendry Chicago_Chicago_4\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Pendry Chicago_Chicago_4\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Pendry Chicago_Chicago_4\Rooms\Suite_2\Suite 3.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Renaissance Warsaw Airport Hotel_Warsaw_4\HotelImage.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Renaissance Warsaw Airport Hotel_Warsaw_4\Rooms\Deluxe_2\Deluxe 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Renaissance Warsaw Airport Hotel_Warsaw_4\Rooms\Standard_2\standard 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Renaissance Warsaw Airport Hotel_Warsaw_4\Rooms\Standard_2\Standard 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Renaissance Warsaw Airport Hotel_Warsaw_4\Rooms\Suite_2\Suite 1.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\SeedImages\Renaissance Warsaw Airport Hotel_Warsaw_4\Rooms\Suite_2\Suite 2.jpg
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemo.staticwebassets.runtime.json
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemo.exe
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\testhost.exe
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests.deps.json
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests.runtimeconfig.json
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests.pdb
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\AutoFixture.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\AutoFixture.AutoMoq.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\AutoFixture.Xunit2.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\AutoMapper.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Castle.Core.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Fare.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\FluentAssertions.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\MailKit.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\MimeKit.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Moq.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\xunit.abstractions.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\xunit.assert.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\xunit.core.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemo.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemo.pdb
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\obj\Debug\net8.0\HotelDemoTests.csproj.AssemblyReference.cache
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\obj\Debug\net8.0\HotelDemoTests.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\obj\Debug\net8.0\HotelDemoTests.AssemblyInfoInputs.cache
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\obj\Debug\net8.0\HotelDemoTests.AssemblyInfo.cs
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\obj\Debug\net8.0\HotelDemoTests.csproj.CoreCompileInputs.cache
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\obj\Debug\net8.0\HotelDem.01F48FC2.Up2Date
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\obj\Debug\net8.0\HotelDemoTests.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\obj\Debug\net8.0\refint\HotelDemoTests.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\obj\Debug\net8.0\HotelDemoTests.pdb
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\obj\Debug\net8.0\HotelDemoTests.genruntimeconfig.cache
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\obj\Debug\net8.0\ref\HotelDemoTests.dll
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\appsettings.Development.json
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\appsettings.json
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemo.deps.json
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemo.runtimeconfig.json
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemo.staticwebassets.runtime.json
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests.deps.json
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests.runtimeconfig.json
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\obj\HotelDemoTests.csproj.nuget.dgspec.json
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\obj\project.assets.json
+E:\PROGRAMAVIMAS\Intern\HotelDemo\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\obj\project.packagespec.json

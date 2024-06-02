@@ -1,0 +1,55 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoFixture" Version="4.18.1" />
+    <PackageReference Include="AutoFixture.AutoMoq" Version="4.18.1" />
+    <PackageReference Include="AutoFixture.Xunit2" Version="4.18.1" />
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+    <PackageReference Include="FluentAssertions" Version="6.12.0" />
+    <PackageReference Include="MailKit" Version="4.6.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="8.0.5" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.10.0" />
+    <PackageReference Include="MimeKit" Version="4.6.0" />
+    <PackageReference Include="Moq" Version="4.20.70" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+     <Content Include="SeedImages\**\*.*" CopyToOutputDirectory="PreserveNewest" />
+     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.6.0" />
+     <PackageReference Include="xunit.assert" Version="2.4.1" />
+     <PackageReference Include="xunit.extensibility.core" Version="2.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="wwwroot\uploads\Hotel Boulevard\HotelImage.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\uploads\Hotel Boulevard\Rooms\Deluxe\deluxe 1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\uploads\Hotel Boulevard\Rooms\Deluxe\Deluxe 2.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\uploads\Hotel Boulevard\Rooms\Standard\Standard 2.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\uploads\Hotel Boulevard\Rooms\Standard\Standard.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\uploads\Hotel Boulevard\Rooms\Suite\Suite 1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\uploads\Hotel Boulevard\Rooms\Suite\Suite 2.jpg" />
+    <_ContentIncludedByDefault Remove="HotelDetoTests\obj\HotelDetoTests.csproj.nuget.dgspec.json" />
+    <_ContentIncludedByDefault Remove="HotelDetoTests\obj\project.assets.json" />
+    <_ContentIncludedByDefault Remove="HotelDetoTests\obj\project.packagespec.json" />
+    <_ContentIncludedByDefault Remove="HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemo.staticwebassets.runtime.json" />
+    <_ContentIncludedByDefault Remove="HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\obj\HotelDemoTests.csproj.nuget.dgspec.json" />
+    <_ContentIncludedByDefault Remove="HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\obj\project.assets.json" />
+    <_ContentIncludedByDefault Remove="HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\obj\project.packagespec.json" />
+    <_ContentIncludedByDefault Remove="HotelDemoTests\obj\HotelDemoTests.csproj.nuget.dgspec.json" />
+    <_ContentIncludedByDefault Remove="HotelDemoTests\obj\project.assets.json" />
+    <_ContentIncludedByDefault Remove="HotelDemoTests\obj\project.packagespec.json" />
+  </ItemGroup>
+
+</Project>
