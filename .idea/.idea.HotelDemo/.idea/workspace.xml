@@ -68,42 +68,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.HotelDemo: IIS Express.executor": "Debug",
-    ".NET Launch Settings Profile.HotelDemo: https.executor": "Debug",
-    "0bd035da-5ba7-474f-a360-adfe23cfa9bf.executor": "Debug",
-    "1b0b9a7c-fe89-4e68-a6b4-d339444c3806.executor": "Debug",
-    "3a39f3aa-7df8-41a4-a046-5e006751d331.executor": "Debug",
-    "57e929b5-84f4-44ad-b721-5f9f2c6c831d.executor": "Debug",
-    "9fd197c6-d025-4f55-a7ec-e633c3e20561.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ToolWindowUnit Tests Coverage.ShowToolbar": "false",
-    "b097f419-e869-48c9-9206-bbd80652985a.executor": "Debug",
-    "c625c70b-082e-48a1-a141-66dd74c11e23.executor": "Debug",
-    "ced733c3-9aa2-4c77-9241-21c831167a13.executor": "Debug",
-    "d66404c3-d76c-46fe-8af3-4ec2a2a11050.executor": "Debug",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.stylelint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.stylelint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "rider.code.cleanup.on.save.profile": "Built-in: Reformat Code",
-    "settings.editor.selected.configurable": "actions.on.save",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.HotelDemo: IIS Express.executor&quot;: &quot;Debug&quot;,
+    &quot;.NET Launch Settings Profile.HotelDemo: https.executor&quot;: &quot;Debug&quot;,
+    &quot;0bd035da-5ba7-474f-a360-adfe23cfa9bf.executor&quot;: &quot;Debug&quot;,
+    &quot;1b0b9a7c-fe89-4e68-a6b4-d339444c3806.executor&quot;: &quot;Debug&quot;,
+    &quot;3a39f3aa-7df8-41a4-a046-5e006751d331.executor&quot;: &quot;Debug&quot;,
+    &quot;57e929b5-84f4-44ad-b721-5f9f2c6c831d.executor&quot;: &quot;Debug&quot;,
+    &quot;9fd197c6-d025-4f55-a7ec-e633c3e20561.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowUnit Tests Coverage.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;b097f419-e869-48c9-9206-bbd80652985a.executor&quot;: &quot;Debug&quot;,
+    &quot;c625c70b-082e-48a1-a141-66dd74c11e23.executor&quot;: &quot;Debug&quot;,
+    &quot;ced733c3-9aa2-4c77-9241-21c831167a13.executor&quot;: &quot;Debug&quot;,
+    &quot;d66404c3-d76c-46fe-8af3-4ec2a2a11050.executor&quot;: &quot;Debug&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;rider.code.cleanup.on.save.profile&quot;: &quot;Built-in: Reformat Code&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\2001t\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\2001t\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\2001t\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\2001t\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\2001t\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\2001t\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.HotelDemo: https">
     <configuration name="HotelDemo: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/HotelDemo.csproj" />
