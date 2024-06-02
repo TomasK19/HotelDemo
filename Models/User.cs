@@ -6,7 +6,7 @@ public class User
     public string Username { get; set; }
     public string Email { get; set; }
     public string PasswordHash { get; set; }
-    public string VerificationCode { get; set; }
+    public string? VerificationCode { get; set; } //nullable for testing purposes
     public bool IsVerified { get; set; }
     public DateTime RegistrationTimestamp { get; set; }
 

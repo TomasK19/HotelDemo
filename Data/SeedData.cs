@@ -15,24 +15,30 @@ public static class SeedData
             serviceProvider.GetRequiredService<DbContextOptions<HotelBookingContext>>()
         );
 
-        if (context.Hotels.Any())
-            return;
+        if (!context.Hotels.Any())
+        {
+            var uploadsDirectory = Path.Combine(env.WebRootPath ?? string.Empty, "uploads");
+            if (!Directory.Exists(uploadsDirectory))
+                Directory.CreateDirectory(uploadsDirectory);
 
-        var uploadsDirectory = Path.Combine(env.WebRootPath ?? string.Empty, "uploads");
-        if (!Directory.Exists(uploadsDirectory))
-            Directory.CreateDirectory(uploadsDirectory);
+            var seedImagesDirectory = Path.Combine(Directory.GetCurrentDirectory(), "SeedImages");
+            if (!Directory.Exists(seedImagesDirectory))
+                throw new DirectoryNotFoundException(
+                    $"Seed images directory not found: {seedImagesDirectory}"
+                );
 
-        var seedImagesDirectory = Path.Combine(Directory.GetCurrentDirectory(), "SeedImages");
-        if (!Directory.Exists(seedImagesDirectory))
-            throw new DirectoryNotFoundException(
-                $"Seed images directory not found: {seedImagesDirectory}"
-            );
+            var hotelFolders = Directory.GetDirectories(seedImagesDirectory);
+            foreach (var hotelFolder in hotelFolders)
+                await SeedHotelAsync(context, hotelFolder, uploadsDirectory);
 
-        var hotelFolders = Directory.GetDirectories(seedImagesDirectory);
-        foreach (var hotelFolder in hotelFolders)
-            await SeedHotelAsync(context, hotelFolder, uploadsDirectory);
+            await context.SaveChangesAsync();
+        }
 
-        await context.SaveChangesAsync();
+        if (!context.Users.Any())
+        {
+            await SeedAdminUserAsync(context);
+            await context.SaveChangesAsync();
+        }
     }
 
     private static async Task SeedHotelAsync(
@@ -131,7 +137,7 @@ public static class SeedData
                         ? 150
                         : roomType == "Standard"
                             ? 100
-                            : 200, // Adjust prices accordingly
+                            : 200,
                 Pictures = roomPictures,
                 MaxNumberOfGuests = maxNumberOfGuests
             };
@@ -140,5 +146,22 @@ public static class SeedData
         }
 
         context.Hotels.Add(hotel);
+    }
+
+    private static async Task SeedAdminUserAsync(HotelBookingContext context)
+    {
+        // For testing purposes only
+        var adminUser = new User
+        {
+            Email = "test@test.com",
+            Username = "test",
+            PasswordHash = BCrypt.Net.BCrypt.HashPassword("test123"),
+            VerificationCode = null,
+            IsVerified = true,
+            RegistrationTimestamp = DateTime.UtcNow
+        };
+
+        context.Users.Add(adminUser);
+        await context.SaveChangesAsync();
     }
 }
