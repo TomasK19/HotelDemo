@@ -1,17 +1,17 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace HotelDemo.DTO;
+using HotelDemo.DTO;
 
-public class UserRegistrationDto
+using MediatR;
+
+namespace HotelDemo.Mediator.Queries.Users;
+
+public class UserLoginQuery : IRequest<UserLoginResponseDTO>
 {
-    [Required]
-    [EmailAddress]
-    public string Email { get; set; }
-
     [Required]
     public string Username { get; set; }
 
     [Required]
-    [MinLength(6)]
     public string Password { get; set; }
 }
+

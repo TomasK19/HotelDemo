@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -15,6 +15,7 @@
     <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
     <PackageReference Include="FluentAssertions" Version="6.12.0" />
     <PackageReference Include="MailKit" Version="4.6.0" />
+    <PackageReference Include="MediatR" Version="12.3.0" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.6" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.5" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="8.0.5" />
@@ -40,16 +41,19 @@
     <_ContentIncludedByDefault Remove="wwwroot\uploads\Hotel Boulevard\Rooms\Standard\Standard.jpg" />
     <_ContentIncludedByDefault Remove="wwwroot\uploads\Hotel Boulevard\Rooms\Suite\Suite 1.jpg" />
     <_ContentIncludedByDefault Remove="wwwroot\uploads\Hotel Boulevard\Rooms\Suite\Suite 2.jpg" />
-    <_ContentIncludedByDefault Remove="HotelDetoTests\obj\HotelDetoTests.csproj.nuget.dgspec.json" />
-    <_ContentIncludedByDefault Remove="HotelDetoTests\obj\project.assets.json" />
-    <_ContentIncludedByDefault Remove="HotelDetoTests\obj\project.packagespec.json" />
-    <_ContentIncludedByDefault Remove="HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemo.staticwebassets.runtime.json" />
-    <_ContentIncludedByDefault Remove="HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\obj\HotelDemoTests.csproj.nuget.dgspec.json" />
-    <_ContentIncludedByDefault Remove="HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\obj\project.assets.json" />
-    <_ContentIncludedByDefault Remove="HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\bin\Debug\net8.0\HotelDemoTests\obj\project.packagespec.json" />
-    <_ContentIncludedByDefault Remove="HotelDemoTests\obj\HotelDemoTests.csproj.nuget.dgspec.json" />
-    <_ContentIncludedByDefault Remove="HotelDemoTests\obj\project.assets.json" />
-    <_ContentIncludedByDefault Remove="HotelDemoTests\obj\project.packagespec.json" />
+   
+  </ItemGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="E:\PROGRAMAVIMAS\Intern\HotelDemo\Mediator\Commands\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="E:\PROGRAMAVIMAS\Intern\HotelDemo\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="E:\PROGRAMAVIMAS\Intern\HotelDemo\.editorconfig" />
   </ItemGroup>
 
 </Project>

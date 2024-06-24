@@ -1,8 +1,9 @@
+using HotelDemo.Mediator.Queries.Bookings;
 using HotelDemo.Models;
 
 namespace HotelDemo.Services;
 
 public interface IBookingCalculationService
 {
-    Task<decimal> CalculateTotalCostAsync(Booking booking);
+    Task<decimal> CalculateTotalCostAsync(CalculateBookingCostQuery query);
 }

@@ -1,10 +1,12 @@
 using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
+
 using HotelDemo.Configuration;
 using HotelDemo.Data;
 using HotelDemo.Exceptions;
 using HotelDemo.Services;
+
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -95,18 +97,12 @@ builder.Services.AddDbContext<HotelBookingContext>(options =>
 
 builder.Services.Configure<SmtpSettings>(builder.Configuration.GetSection("SmtpSettings"));
 builder.Services.AddTransient<IEmailService, EmailService>();
-
-builder.Services.AddScoped<IHotelService, HotelService>();
-builder.Services.AddScoped<IBookingService, BookingService>();
-builder.Services.AddScoped<IBookingCalculationService, BookingCalculationService>();
-builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddTransient<IBookingCalculationService, BookingCalculationService>();
 builder.Services.AddScoped<ITokenService, TokenService>();
-
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
-
 builder.Services.AddScoped<UnverifiedUserCleanupService>();
 builder.Services.AddHostedService<CleanupHostedService>();
-
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Program).Assembly));
 var app = builder.Build();
 
 using (var scope = app.Services.CreateScope())
