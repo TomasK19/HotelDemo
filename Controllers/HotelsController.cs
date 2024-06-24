@@ -1,31 +1,27 @@
 using HotelDemo.DTO;
+using HotelDemo.Mediator.Queries.Hotels;
 using HotelDemo.Services;
+
+using MediatR;
+
 using Microsoft.AspNetCore.Mvc;
 
 namespace HotelDemo.Controllers;
 
-[ApiController]
-[Route("api/hotels")]
-public class HotelsController(IHotelService hotelService) : ControllerBase
+public class HotelsController(IMediator mediator) : BaseController(mediator)
 {
     [HttpGet("all")]
-    public async Task<ActionResult<IEnumerable<HotelDto>>> GetHotels()
+    public async Task<ActionResult> GetHotels()
     {
-        var hotels = await hotelService.GetHotelsAsync();
-        return Ok(hotels);
+        var result = await Mediator.Send(new GetHotelsQuery());
+        return Ok(result);
     }
 
     [HttpGet("{id}")]
-    public async Task<ActionResult<HotelDto>> GetHotel(long id)
+    public async Task<ActionResult> GetHotel([FromQuery] GetHotelQuery query, long id)
     {
-        try
-        {
-            var hotel = await hotelService.GetHotelByIdAsync(id);
-            return Ok(hotel);
-        }
-        catch (ArgumentException ex)
-        {
-            return NotFound(new { error = ex.Message });
-        }
+            query.HotelId = id;
+            var result = await Mediator.Send(query);
+            return Ok(result);
     }
 }
